@@ -1,0 +1,17 @@
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\bin\Debug\net6.0\JSONWorkout2.exe
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\bin\Debug\net6.0\JSONWorkout2.deps.json
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\bin\Debug\net6.0\JSONWorkout2.runtimeconfig.json
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\bin\Debug\net6.0\JSONWorkout2.dll
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\bin\Debug\net6.0\JSONWorkout2.pdb
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.csproj.AssemblyReference.cache
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.AssemblyInfoInputs.cache
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.AssemblyInfo.cs
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.csproj.CoreCompileInputs.cache
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.csproj.CopyComplete
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.dll
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\refint\JSONWorkout2.dll
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.pdb
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.genruntimeconfig.cache
+C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\ref\JSONWorkout2.dll
