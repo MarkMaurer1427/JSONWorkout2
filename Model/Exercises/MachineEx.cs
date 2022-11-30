@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace JSONWorkout2.Model.Exercises
 {
-    internal class MachineEx
+    internal class MachineEx : Exercise
     {
         public int id;
         public string flexor;

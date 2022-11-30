@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace JSONWorkout2.Model.Exercises
 {
-    internal class FreeEx
+    internal class FreeEx : Exercise
     {
         public string name;
         public int[] weights = new int[4];

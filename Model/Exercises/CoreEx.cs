@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace JSONWorkout2.Model.Exercises
 {
-    internal class CoreEx
+    internal class CoreEx : Exercise
     {
         private int id;
         private string name;
