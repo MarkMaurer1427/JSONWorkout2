@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace JSONWorkout2.Model.Exercises
 {
-    internal class MachineEx : Exercise
+    public class MachineEx : Exercise
     {
         public int id;
         public string flexor;
@@ -21,5 +21,26 @@ namespace JSONWorkout2.Model.Exercises
             for (int i = 0; i < 4; i++)
             { weights[i] = (int)tok["Weights"][i]; }
         }
+
+        public MachineEx(int id, string flexor, string extensor, int[] weights)
+        {
+            this.id = id;
+            this.flexor = flexor;
+            this.extensor = extensor;
+            this.weights = weights;
+        }
+
+        public void DisplayInfo()
+        {
+            Console.WriteLine();
+            Console.WriteLine($"Id: {id}.");
+            Console.WriteLine($"Flexor Exercise: {flexor}.");
+            Console.WriteLine($"Extensor Exercise: {extensor}.");
+            Console.WriteLine($"Weights: {weights[0]},{weights[1]},{weights[2]},{weights[3]}.");
+            Console.WriteLine();
+
+        }
+
+
     }
 }

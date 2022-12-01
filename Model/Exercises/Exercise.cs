@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace JSONWorkout2.Model.Exercises
 {
-    internal class Exercise
+    public class Exercise
     {
         int id;
+
     }
+
+
+
 }

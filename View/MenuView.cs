@@ -45,5 +45,71 @@ namespace JSONWorkout2.View
 
             Console.WriteLine("Enter selection: ");
         }
+
+        public void CreateExListBanner() 
+        {
+            Console.WriteLine();
+            Console.WriteLine("**** Create New Exercise Set ****");
+            Console.WriteLine();
+        }
+
+        public void CreateMachExBanner()
+        {
+            Console.WriteLine();
+            Console.WriteLine("**** Create New Machine Exercise ****");
+            Console.WriteLine();
+        }
+
+        public void CreateFreeExBanner()
+        {
+            Console.WriteLine();
+            Console.WriteLine("**** Create Free Weight Exercise ****");
+            Console.WriteLine();
+        }
+
+        public void ExTypeErrorMsg() { Console.WriteLine("Invalid type entered. Returning to type selection."); }
+        public void InvalidMsg() { Console.WriteLine("Invalid input."); }
+
+        public string GetString(string prompt)
+        {
+            
+            Console.Write(prompt);
+            return Console.ReadLine();
+
+        }
+
+        public void ExTypeMenu()
+        {
+
+            Console.WriteLine("Select Exercise Set Type.");
+            Console.WriteLine("1. Machine Exercises");
+            Console.WriteLine("2. Free Weight Exercises");
+            Console.WriteLine("3. Core Exercises");
+            Console.WriteLine("4. Cardio Exercises");
+            Console.WriteLine();
+        
+        }
+
+
+        public int GetInt(string prompt)
+        {
+            while(true)
+            {
+                try
+                {
+
+                    Console.Write(prompt);
+                    return int.Parse(Console.ReadLine());
+
+                }
+                catch(Exception e) { Console.WriteLine("Wrong input.");}
+                
+
+            }
+
+        }
+
+
+
     }
 }

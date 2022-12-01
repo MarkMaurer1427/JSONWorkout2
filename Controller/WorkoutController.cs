@@ -71,5 +71,11 @@ namespace JSONWorkout2.Controller
             while (running == true);
         }
 
+        private void CreateWorkout()
+        {
+
+
+        }
+
     }
 }

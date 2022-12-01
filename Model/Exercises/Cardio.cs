@@ -6,31 +6,29 @@ using System.Threading.Tasks;
 
 namespace JSONWorkout2.Model.Exercises
 {
-    public class CoreEx : Exercise
+    public class Cardio : Exercise
     {
         private int id;
         private string name;
-        private int[] weights; //Sets of 20,30,40,50
+        private int time;
 
-        public CoreEx(int id, string name, int[] weights)
+        public Cardio(int id,string name, int time)
         {
-            
+
             this.id = id;
             this.name = name;
-            this.weights = weights;
-
+            this.time = time;
+            
         }
-
         public void DisplayInfo()
         {
 
             Console.WriteLine();
             Console.WriteLine($"Id: {id}.");
             Console.WriteLine($"Name: {name}.");
-            Console.WriteLine($"Weights: {weights[0]},{weights[1]},{weights[2]},{weights[3]}.");
+            Console.WriteLine($"Time: {time} minutes.");
             Console.WriteLine();
 
         }
-
     }
 }

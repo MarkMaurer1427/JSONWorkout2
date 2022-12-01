@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "eYd6V1ZFuK2aQBEakEKpOAhvAfMGwOMJdCcMDGUe1A0uu2pCj3c6Z6dr/oOInumsG0ipMuR3tzZPW9Pz18Kmlw==",
+  "dgSpecHash": "rzB6iwO99GR1kZMd4ESuly+16d1bRrrRsBE38ISMSjmkp4/g1/rAAIr68pRfetC76UgrYt672HwLVwQERroQvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Markm\\source\\repos\\JSONWorkout2\\JSONWorkout2\\JSONWorkout2.csproj",
+  "projectFilePath": "C:\\Users\\Owner\\Desktop\\Repos\\JSON Workout 2\\JSONWorkout2\\JSONWorkout2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Markm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\Owner\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -52,25 +52,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Markm\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Owner\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Markm\\source\\repos\\JSONWorkout2\\JSONWorkout2\\JSONWorkout2.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\Desktop\\Repos\\JSON Workout 2\\JSONWorkout2\\JSONWorkout2.csproj",
       "projectName": "JSONWorkout2",
-      "projectPath": "C:\\Users\\Markm\\source\\repos\\JSONWorkout2\\JSONWorkout2\\JSONWorkout2.csproj",
-      "packagesPath": "C:\\Users\\Markm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Markm\\source\\repos\\JSONWorkout2\\JSONWorkout2\\obj\\",
+      "projectPath": "C:\\Users\\Owner\\Desktop\\Repos\\JSON Workout 2\\JSONWorkout2\\JSONWorkout2.csproj",
+      "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Owner\\Desktop\\Repos\\JSON Workout 2\\JSONWorkout2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Markm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

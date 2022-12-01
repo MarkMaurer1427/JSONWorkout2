@@ -15,3 +15,20 @@ C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\refint\JS
 C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.pdb
 C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.genruntimeconfig.cache
 C:\Users\Markm\source\repos\JSONWorkout2\JSONWorkout2\obj\Debug\net6.0\ref\JSONWorkout2.dll
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\bin\Debug\net6.0\JSONWorkout2.exe
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\bin\Debug\net6.0\JSONWorkout2.deps.json
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\bin\Debug\net6.0\JSONWorkout2.runtimeconfig.json
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\bin\Debug\net6.0\JSONWorkout2.dll
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\bin\Debug\net6.0\JSONWorkout2.pdb
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.csproj.CopyComplete
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.dll
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\obj\Debug\net6.0\refint\JSONWorkout2.dll
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.pdb
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\obj\Debug\net6.0\JSONWorkout2.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Repos\JSON Workout 2\JSONWorkout2\obj\Debug\net6.0\ref\JSONWorkout2.dll

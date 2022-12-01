@@ -13,7 +13,7 @@ namespace JSONWorkout2.Controller
 
         public void Run()
         {
-            ExController exController = new ExController(View);
+            ExListController exController = new ExListController(View);
             WorkoutController workoutController = new WorkoutController(View);
             WorkoutGen workoutGen = new WorkoutGen();
 
